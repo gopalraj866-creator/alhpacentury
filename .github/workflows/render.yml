@@ -113,7 +113,7 @@ jobs:
             4k)     FILE="out/${NAME}_4K.mp4" ;;
             shorts) FILE="out/${NAME}_Shorts.mp4" ;;
           esac
-          tools/assemble.sh "${{ matrix.format }}" build/parts "$FILE"
+          bash tools/assemble.sh "${{ matrix.format }}" build/parts "$FILE"
           # audio + subtitles next to the video
           if [ "${{ matrix.format }}" = "shorts" ]; then SRC=build/shorts; else SRC=build/main; fi
           cp "$SRC/subtitles.srt" "out/${NAME}_${{ matrix.format }}.srt"
