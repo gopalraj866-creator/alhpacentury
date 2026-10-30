@@ -1,0 +1,6 @@
+node_modules/
+build/stills/
+build/parts/
+build/sheet*.jpg
+build/tts_cache/
+out/

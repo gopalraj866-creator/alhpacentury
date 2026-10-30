@@ -1,0 +1,18 @@
+{
+  "name": "alpha-centauri-video",
+  "version": "1.0.0",
+  "description": "The Terrifying Journey to Alpha Centauri - Three.js/WebGL simulation video (1080p, 4K, Shorts) rendered on GitHub Actions",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "audio": "python3 scripts/build_audio.py --mode main --out build/main && python3 scripts/build_audio.py --mode shorts --out build/shorts",
+    "preview": "node tools/render.mjs --format 1080p --stills 3,60,170,260,300,345,390,420,470 --still-dir build/stills",
+    "render:1080p": "node tools/render.mjs --format 1080p --chunks 1 --out out/video_1080p_silent.mp4",
+    "render:shorts": "node tools/render.mjs --format shorts --chunks 1 --out out/video_shorts_silent.mp4"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.0",
+    "playwright": "^1.49.0",
+    "three": "0.186.1"
+  }
+}

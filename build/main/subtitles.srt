@@ -1,0 +1,493 @@
+1
+00:00:01,645 --> 00:00:03,499
+Look up at the night sky.
+
+2
+00:00:03,799 --> 00:00:07,102
+Near the southern horizon, a
+bright star shines.
+
+3
+00:00:07,402 --> 00:00:10,368
+It looks calm. It looks close. It is not.
+
+4
+00:00:10,668 --> 00:00:15,766
+That point of light is Alpha Centauri, the
+nearest star system to our Sun.
+
+5
+00:00:16,066 --> 00:00:20,953
+And the journey to reach it may be the most
+terrifying voyage humanity has
+
+6
+00:00:20,953 --> 00:00:21,877
+ever imagined.
+
+7
+00:00:22,177 --> 00:00:24,926
+In the next eight minutes, we
+will fly there.
+
+8
+00:00:25,226 --> 00:00:30,519
+We will cross 40 trillion kilometres of
+darkness, and meet the dangers waiting
+
+9
+00:00:30,519 --> 00:00:31,333
+in the void.
+
+10
+00:00:31,633 --> 00:00:36,383
+Stay until the end, because the last part
+changes how you see the stars.
+
+11
+00:00:39,710 --> 00:00:44,209
+Let's start with the farthest explorer we
+have ever sent toward the stars.
+
+12
+00:00:44,509 --> 00:00:52,612
+Voyager 1 launched in 1977, and entered
+interstellar space in 2012.
+
+13
+00:00:52,912 --> 00:00:58,423
+It travels at about seventeen kilometres
+every second, many times faster than
+
+14
+00:00:58,423 --> 00:00:59,497
+a rifle bullet.
+
+15
+00:00:59,797 --> 00:01:04,628
+Yet if it were aimed at Alpha Centauri, it
+would need around seventy-five
+
+16
+00:01:04,628 --> 00:01:06,283
+thousand years to arrive.
+
+17
+00:01:06,583 --> 00:01:12,632
+Seventy-five thousand years ago, no city, no
+farm, and no written word existed
+
+18
+00:01:12,632 --> 00:01:14,028
+anywhere on Earth.
+
+19
+00:01:14,328 --> 00:01:19,589
+Even the Parker Solar Probe, the fastest
+machine ever built, would take nearly
+
+20
+00:01:19,589 --> 00:01:21,005
+seven thousand years.
+
+21
+00:01:24,332 --> 00:01:26,274
+So how far is it, really?
+
+22
+00:01:26,574 --> 00:01:31,285
+Alpha Centauri lies about 4.37
+light years away.
+
+23
+00:01:31,585 --> 00:01:36,897
+Light, the fastest thing in the universe, needs
+more than four years to make this trip.
+
+24
+00:01:37,197 --> 00:01:40,540
+In kilometres, that is roughly
+forty trillion.
+
+25
+00:01:40,840 --> 00:01:45,826
+Or, in units our Solar System understands,
+about two hundred and seventy
+
+26
+00:01:45,826 --> 00:01:49,565
+thousand times the distance from
+the Earth to the Sun.
+
+27
+00:01:49,865 --> 00:01:54,723
+Shrink the Sun to a single grain of sand,
+and the next star would still be
+
+28
+00:01:54,723 --> 00:01:56,692
+nearly thirty kilometres away.
+
+29
+00:02:00,019 --> 00:02:02,960
+And what waits there? Not one
+star, but three.
+
+30
+00:02:03,260 --> 00:02:09,051
+Alpha Centauri A and B are sun-like stars
+that circle each other once every
+
+31
+00:02:09,051 --> 00:02:13,451
+eighty years, roughly as far apart
+as the Sun and Uranus.
+
+32
+00:02:13,751 --> 00:02:19,232
+Far beyond them, about a fifth of a light
+year away, a small red dwarf called
+
+33
+00:02:19,232 --> 00:02:21,367
+Proxima Centauri drifts along.
+
+34
+00:02:21,667 --> 00:02:26,907
+At 4.24 light years, Proxima is the
+closest star to us of all.
+
+35
+00:02:27,207 --> 00:02:31,422
+Yet it is so dim that you can never
+see it without a telescope.
+
+36
+00:02:34,749 --> 00:02:39,862
+Around that little star circles a world
+astronomers cannot stop thinking about.
+
+37
+00:02:40,162 --> 00:02:45,914
+Proxima b, discovered in 2016, is a rocky
+planet with roughly the mass of
+
+38
+00:02:45,914 --> 00:02:51,271
+Earth, sitting in the habitable zone
+where liquid water could exist.
+
+39
+00:02:51,571 --> 00:02:56,687
+But look closer. It orbits its star every
+eleven days, about eight times
+
+40
+00:02:56,687 --> 00:02:59,102
+closer than Mercury is to our Sun.
+
+41
+00:02:59,402 --> 00:03:05,994
+And its star is violent. In March 2017, a
+single flare made Proxima a thousand
+
+42
+00:03:05,994 --> 00:03:10,303
+times brighter in radio light,
+in just ten seconds.
+
+43
+00:03:10,603 --> 00:03:15,355
+Flares like that could strip away an
+atmosphere, and sterilise a surface.
+
+44
+00:03:15,655 --> 00:03:21,902
+And around Alpha Centauri A, the James Webb
+telescope spotted a faint dot in
+
+45
+00:03:21,902 --> 00:03:28,067
+2024: a possible giant planet, about twice
+as far from its star as Earth is
+
+46
+00:03:28,067 --> 00:03:29,135
+from the Sun.
+
+47
+00:03:29,435 --> 00:03:35,255
+It was seen only once. For now, it remains a
+candidate, not a confirmed world.
+
+48
+00:03:38,582 --> 00:03:42,114
+So the destination is real. The
+problem is speed.
+
+49
+00:03:42,414 --> 00:03:47,047
+To arrive within a human lifetime, we
+would need to travel at a serious
+
+50
+00:03:47,047 --> 00:03:49,070
+fraction of the speed of light.
+
+51
+00:03:49,370 --> 00:03:54,300
+At ten percent of light speed, the trip
+takes about forty-four years. At
+
+52
+00:03:54,300 --> 00:03:56,559
+twenty percent, about twenty-two.
+
+53
+00:03:56,859 --> 00:04:01,542
+But rockets that carry their own fuel
+cannot come close to those speeds.
+
+54
+00:04:01,842 --> 00:04:07,431
+So engineers asked a radical question: what if
+the ship carried no fuel at all?
+
+55
+00:04:10,759 --> 00:04:16,319
+In 2016, Yuri Milner announced, alongside
+Stephen Hawking, Breakthrough
+
+56
+00:04:16,319 --> 00:04:20,391
+Starshot, a hundred million
+dollar research program.
+
+57
+00:04:20,691 --> 00:04:26,408
+The idea: build the most powerful laser array
+ever made, around a hundred gigawatts.
+
+58
+00:04:26,708 --> 00:04:31,761
+Then use it to push a fleet of tiny probes,
+each a chip weighing about a gram,
+
+59
+00:04:31,761 --> 00:04:33,770
+attached to a mirror-like sail.
+
+60
+00:04:34,070 --> 00:04:38,818
+In just minutes, the laser would blast them
+up to twenty percent of the speed
+
+61
+00:04:38,818 --> 00:04:42,518
+of light, more than two hundred
+million kilometres per hour.
+
+62
+00:04:42,818 --> 00:04:46,519
+They would reach Alpha Centauri in
+about twenty years.
+
+63
+00:04:46,819 --> 00:04:50,977
+And their pictures would need another
+four years to travel home.
+
+64
+00:04:54,304 --> 00:04:57,461
+But the space between the
+stars is not empty.
+
+65
+00:04:57,761 --> 00:05:01,544
+It is filled with thin gas, and
+tiny grains of dust.
+
+66
+00:05:01,844 --> 00:05:07,019
+At normal speeds, they are harmless. At
+twenty percent of light speed, every
+
+67
+00:05:07,019 --> 00:05:08,586
+grain becomes a bullet.
+
+68
+00:05:08,886 --> 00:05:14,132
+A single sail could be struck by around a
+billion dust particles on the way.
+
+69
+00:05:14,432 --> 00:05:20,508
+And a grain just one millimetre across would
+hit with the energy of dozens of
+
+70
+00:05:20,508 --> 00:05:21,850
+kilograms of TNT.
+
+71
+00:05:22,150 --> 00:05:27,533
+A big ship could be destroyed in an instant.
+For the tiny sails, the plan is a
+
+72
+00:05:27,533 --> 00:05:31,259
+numbers game: launch thousands,
+and hope some survive.
+
+73
+00:05:34,587 --> 00:05:37,529
+There is a second killer, and
+you cannot see it.
+
+74
+00:05:37,829 --> 00:05:43,570
+Space is threaded with cosmic rays, fast
+charged particles that raise the risk
+
+75
+00:05:43,570 --> 00:05:45,999
+of cancer even on short missions.
+
+76
+00:05:46,299 --> 00:05:51,836
+At relativistic speed, it gets worse: even a
+single hydrogen atom slams in so
+
+77
+00:05:51,836 --> 00:05:56,725
+hard that, from the ship's point of view,
+it acts like a cosmic ray.
+
+78
+00:05:57,025 --> 00:06:02,218
+Analyses of fast starships find that a crew
+at very high speed would need a
+
+79
+00:06:02,218 --> 00:06:07,064
+shield several metres thick, just to
+survive the gas it flies through.
+
+80
+00:06:10,391 --> 00:06:15,948
+Now imagine the impossible: a crewed ship
+that accelerates at one g, the same
+
+81
+00:06:15,948 --> 00:06:18,257
+pull you feel standing on Earth.
+
+82
+00:06:18,557 --> 00:06:21,385
+Halfway there, it flips
+around, and brakes.
+
+83
+00:06:21,685 --> 00:06:25,952
+No engine we know could do this. But
+the physics is clear.
+
+84
+00:06:26,252 --> 00:06:31,628
+The crew would age about three and a half years,
+while about six years pass on Earth.
+
+85
+00:06:31,928 --> 00:06:36,877
+At the midpoint, they would be moving at
+ninety-five percent of the speed of light.
+
+86
+00:06:37,177 --> 00:06:42,648
+Outside the window, the stars crowd into a
+blazing blue ring ahead, while the
+
+87
+00:06:42,648 --> 00:06:45,561
+sky behind fades to a dull, red darkness.
+
+88
+00:06:48,888 --> 00:06:53,023
+If a Starshot probe survives, it
+gets exactly one chance.
+
+89
+00:06:53,323 --> 00:06:58,367
+It cannot slow down. It will tear through
+the system at about thirty-five
+
+90
+00:06:58,367 --> 00:07:01,062
+times the Earth–Sun distance every day.
+
+91
+00:07:01,362 --> 00:07:06,396
+In those few precious hours, its tiny camera
+would take the first close-up
+
+92
+00:07:06,396 --> 00:07:08,573
+pictures of another star system.
+
+93
+00:07:08,873 --> 00:07:13,767
+Then a one-watt laser would send them home,
+a whisper crossing four light
+
+94
+00:07:13,767 --> 00:07:14,974
+years of darkness.
+
+95
+00:07:15,274 --> 00:07:19,050
+And after that, the probe vanishes
+into the dark, forever.
+
+96
+00:07:22,377 --> 00:07:25,662
+So, is the journey to Alpha
+Centauri possible?
+
+97
+00:07:25,962 --> 00:07:30,973
+Not yet. Dust, radiation, and the sheer
+distance still stand in the way.
+
+98
+00:07:31,273 --> 00:07:35,937
+But the first steps are happening right now:
+the lasers, the sails, and the
+
+99
+00:07:35,937 --> 00:07:37,865
+telescopes hunting for planets.
+
+100
+00:07:38,165 --> 00:07:42,222
+We are a species that once crossed
+oceans in wooden boats.
+
+101
+00:07:42,522 --> 00:07:46,950
+The ocean between the stars is wider,
+and darker, and colder.
+
+102
+00:07:47,250 --> 00:07:50,615
+But the nearest shore is only
+four light years away.
+
+103
+00:07:50,915 --> 00:07:55,808
+If you enjoyed this journey, subscribe to
+Technical Talk India, and tell us in
+
+104
+00:07:55,808 --> 00:07:58,317
+the comments: would you board that ship?

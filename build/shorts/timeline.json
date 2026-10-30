@@ -1,0 +1,193 @@
+{
+ "title": "The Terrifying Journey to Alpha Centauri (Short)",
+ "mode": "shorts",
+ "total": 56.0,
+ "scenes": [
+  {
+   "id": "distance",
+   "title": "ALPHA CENTAURI",
+   "start": 0.0,
+   "end": 12.466799999999996
+  },
+  {
+   "id": "starshot",
+   "title": "THE CRAZY PLAN",
+   "start": 12.466799999999996,
+   "end": 25.919141666666658
+  },
+  {
+   "id": "dust",
+   "title": "THE TERROR",
+   "start": 25.919141666666658,
+   "end": 36.635504166666664
+  },
+  {
+   "id": "arrival",
+   "title": "ONE SHOT",
+   "start": 36.635504166666664,
+   "end": 49.88419999999999
+  },
+  {
+   "id": "finale",
+   "title": "WOULD YOU GO?",
+   "start": 49.88419999999999,
+   "end": 56.0
+  }
+ ],
+ "cards": [
+  {
+   "start": 0.956042499999999,
+   "end": 7.681354999999999,
+   "label": "DISTANCE",
+   "value": "≈ 40 trillion km",
+   "slot": 0
+  },
+  {
+   "start": 6.661354999999999,
+   "end": 12.1912925,
+   "label": "VOYAGER 1",
+   "value": "≈ 75,000 years",
+   "slot": 1
+  },
+  {
+   "start": 13.422842499999994,
+   "end": 17.622842499999994,
+   "label": "LASER",
+   "value": "≈ 100 gigawatts",
+   "slot": 0
+  },
+  {
+   "start": 20.766842499999992,
+   "end": 25.643634166666658,
+   "label": "TOP SPEED",
+   "value": "20% of light speed",
+   "slot": 0
+  },
+  {
+   "start": 28.94972583333333,
+   "end": 33.81766333333333,
+   "label": "ONE DUST GRAIN",
+   "value": "Dozens of kg of TNT",
+   "slot": 0
+  },
+  {
+   "start": 45.36621333333333,
+   "end": 49.6086925,
+   "label": "SIGNAL HOME",
+   "value": "4+ years",
+   "slot": 0
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.956042499999999,
+   "end": 3.36451205128205,
+   "text": "Alpha Centauri is the nearest star"
+  },
+  {
+   "start": 3.36451205128205,
+   "end": 5.347957564102563,
+   "text": "system to us, forty trillion"
+  },
+  {
+   "start": 5.347957564102563,
+   "end": 6.481354999999999,
+   "text": "kilometres away."
+  },
+  {
+   "start": 6.661354999999999,
+   "end": 9.003780204918032,
+   "text": "Voyager 1 would need seventy-five"
+  },
+  {
+   "start": 9.003780204918032,
+   "end": 10.991292499999998,
+   "text": "thousand years to get there."
+  },
+  {
+   "start": 13.422842499999994,
+   "end": 16.003967499999995,
+   "text": "So scientists propose something crazy."
+  },
+  {
+   "start": 16.183967499999994,
+   "end": 18.289690326086948,
+   "text": "A hundred-gigawatt laser, pushing"
+  },
+  {
+   "start": 18.289690326086948,
+   "end": 20.58684249999999,
+   "text": "a chip-sized probe on a mirror sail."
+  },
+  {
+   "start": 20.766842499999992,
+   "end": 22.848045330188672,
+   "text": "Twenty percent of light speed."
+  },
+  {
+   "start": 22.848045330188672,
+   "end": 24.44363416666666,
+   "text": "Twenty years to arrive."
+  },
+  {
+   "start": 26.87518416666666,
+   "end": 28.769725833333325,
+   "text": "But space isn't empty."
+  },
+  {
+   "start": 28.94972583333333,
+   "end": 31.12331842592592,
+   "text": "At that speed, a single grain of"
+  },
+  {
+   "start": 31.12331842592592,
+   "end": 32.617663333333326,
+   "text": "dust hits like a bomb."
+  },
+  {
+   "start": 32.797663333333325,
+   "end": 35.15999666666666,
+   "text": "And every atom becomes a bullet."
+  },
+  {
+   "start": 37.59154666666666,
+   "end": 39.89707047619047,
+   "text": "If the probe survives, it gets one"
+  },
+  {
+   "start": 39.89707047619047,
+   "end": 42.134784761904754,
+   "text": "chance: a few hours to photograph"
+  },
+  {
+   "start": 42.134784761904754,
+   "end": 44.304689523809515,
+   "text": "Proxima b, a world that may have"
+  },
+  {
+   "start": 44.304689523809515,
+   "end": 45.18621333333333,
+   "text": "liquid water."
+  },
+  {
+   "start": 45.36621333333333,
+   "end": 47.43768851063829,
+   "text": "Then four years for the pictures"
+  },
+  {
+   "start": 47.43768851063829,
+   "end": 48.408692499999994,
+   "text": "to reach Earth."
+  },
+  {
+   "start": 50.840242499999995,
+   "end": 52.412700833333325,
+   "text": "Would you board that ship?"
+  },
+  {
+   "start": 52.59270083333333,
+   "end": 54.5244925,
+   "text": "Follow for more space journeys."
+  }
+ ]
+}

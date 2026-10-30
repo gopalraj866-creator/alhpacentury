@@ -1,0 +1,848 @@
+{
+ "title": "The Terrifying Journey to Alpha Centauri",
+ "mode": "main",
+ "total": 480.0,
+ "scenes": [
+  {
+   "id": "hook",
+   "title": "Prologue",
+   "start": 0.0,
+   "end": 38.065517361111105
+  },
+  {
+   "id": "voyager",
+   "title": "Chapter 1 · The Farthest Explorer",
+   "start": 38.065517361111105,
+   "end": 82.6878472222222
+  },
+  {
+   "id": "distance",
+   "title": "Chapter 2 · The Distance",
+   "start": 82.6878472222222,
+   "end": 118.37478124999996
+  },
+  {
+   "id": "system",
+   "title": "Chapter 3 · Three Suns",
+   "start": 118.37478124999996,
+   "end": 153.10434027777768
+  },
+  {
+   "id": "proxima",
+   "title": "Chapter 4 · A World Called Proxima b",
+   "start": 153.10434027777768,
+   "end": 216.93744097222213
+  },
+  {
+   "id": "speed",
+   "title": "Chapter 5 · The Speed Problem",
+   "start": 216.93744097222213,
+   "end": 249.1140208333332
+  },
+  {
+   "id": "starshot",
+   "title": "Chapter 6 · Breakthrough Starshot",
+   "start": 249.1140208333332,
+   "end": 292.65985069444434
+  },
+  {
+   "id": "dust",
+   "title": "Terror One · Dust",
+   "start": 292.65985069444434,
+   "end": 332.94209722222206
+  },
+  {
+   "id": "radiation",
+   "title": "Terror Two · Invisible Fire",
+   "start": 332.94209722222206,
+   "end": 368.7465937499999
+  },
+  {
+   "id": "relativity",
+   "title": "Terror Three · Time Itself",
+   "start": 368.7465937499999,
+   "end": 407.24356944444435
+  },
+  {
+   "id": "arrival",
+   "title": "The Arrival · One Shot",
+   "start": 407.24356944444435,
+   "end": 440.73250347222216
+  },
+  {
+   "id": "finale",
+   "title": "Epilogue",
+   "start": 440.73250347222216,
+   "end": 480.0
+  }
+ ],
+ "cards": [
+  {
+   "start": 10.667681076388885,
+   "end": 16.96634774305555,
+   "label": "NEAREST STAR SYSTEM",
+   "value": "Alpha Centauri",
+   "slot": 0
+  },
+  {
+   "start": 25.226056076388886,
+   "end": 32.533410243055556,
+   "label": "DISTANCE",
+   "value": "≈ 40 trillion km",
+   "slot": 0
+  },
+  {
+   "start": 44.50907343749999,
+   "end": 53.81176093749999,
+   "label": "VOYAGER 1",
+   "value": "Launched 1977 · Interstellar 2012",
+   "slot": 0
+  },
+  {
+   "start": 52.91176093749999,
+   "end": 60.69719843749999,
+   "label": "SPEED",
+   "value": "≈ 17 km/s",
+   "slot": 1
+  },
+  {
+   "start": 59.79719843749999,
+   "end": 67.4825109375,
+   "label": "TIME TO ALPHA CENTAURI",
+   "value": "≈ 75,000 years",
+   "slot": 0
+  },
+  {
+   "start": 74.32784427083332,
+   "end": 82.20517760416666,
+   "label": "PARKER SOLAR PROBE",
+   "value": "≈ 6,800 years",
+   "slot": 0
+  },
+  {
+   "start": 86.57369496527775,
+   "end": 92.48513246527776,
+   "label": "ALPHA CENTAURI A + B",
+   "value": "4.37 light years",
+   "slot": 0
+  },
+  {
+   "start": 97.19713246527775,
+   "end": 101.74011163194442,
+   "label": "IN KILOMETRES",
+   "value": "≈ 40,000,000,000,000",
+   "slot": 0
+  },
+  {
+   "start": 100.84011163194441,
+   "end": 110.76544496527774,
+   "label": "IN ASTRONOMICAL UNITS",
+   "value": "≈ 270,000 AU",
+   "slot": 1
+  },
+  {
+   "start": 109.86544496527775,
+   "end": 117.89211163194442,
+   "label": "SUN = 1 mm GRAIN",
+   "value": "Next star ≈ 30 km away",
+   "slot": 0
+  },
+  {
+   "start": 123.26031649305551,
+   "end": 134.6513164930555,
+   "label": "A + B ORBIT",
+   "value": "Every 80 years",
+   "slot": 0
+  },
+  {
+   "start": 133.7513164930555,
+   "end": 142.5673164930555,
+   "label": "PROXIMA CENTAURI",
+   "value": "Red dwarf · ≈ 0.2 ly from A + B",
+   "slot": 1
+  },
+  {
+   "start": 141.6673164930555,
+   "end": 148.10729565972215,
+   "label": "PROXIMA'S DISTANCE",
+   "value": "4.24 light years",
+   "slot": 0
+  },
+  {
+   "start": 160.16193802083325,
+   "end": 172.47141718749992,
+   "label": "PROXIMA b",
+   "value": "Rocky · Habitable zone · Found 2016",
+   "slot": 0
+  },
+  {
+   "start": 171.57141718749992,
+   "end": 180.3020838541666,
+   "label": "ORBIT",
+   "value": "11.2 days · ≈ 7 million km",
+   "slot": 1
+  },
+  {
+   "start": 179.4020838541666,
+   "end": 191.50341718749993,
+   "label": "ALMA · 24 MARCH 2017",
+   "value": "Flare: ×1000 in 10 seconds",
+   "slot": 0
+  },
+  {
+   "start": 195.6550838541666,
+   "end": 210.3352713541666,
+   "label": "JWST CANDIDATE",
+   "value": "Giant planet at ≈ 2 AU",
+   "slot": 0
+  },
+  {
+   "start": 209.43527135416662,
+   "end": 216.4547713541666,
+   "label": "STATUS",
+   "value": "NOT CONFIRMED",
+   "slot": 1
+  },
+  {
+   "start": 229.36991371527768,
+   "end": 237.759247048611,
+   "label": "AT 0.1 c",
+   "value": "≈ 44 years",
+   "slot": 0
+  },
+  {
+   "start": 229.36991371527768,
+   "end": 237.759247048611,
+   "label": "AT 0.2 c",
+   "value": "≈ 22 years",
+   "slot": 1
+  },
+  {
+   "start": 250.7585352430554,
+   "end": 261.5908894097221,
+   "label": "BREAKTHROUGH STARSHOT",
+   "value": "2016 · $100 million",
+   "slot": 0
+  },
+  {
+   "start": 260.6908894097221,
+   "end": 267.6082227430554,
+   "label": "LASER ARRAY",
+   "value": "≈ 100 gigawatts",
+   "slot": 1
+  },
+  {
+   "start": 266.70822274305544,
+   "end": 274.96955607638876,
+   "label": "EACH PROBE",
+   "value": "≈ 1 gram chip + light sail",
+   "slot": 0
+  },
+  {
+   "start": 274.0695560763888,
+   "end": 283.7175560763888,
+   "label": "TOP SPEED",
+   "value": "20% of light · ≈ 215 million km/h",
+   "slot": 1
+  },
+  {
+   "start": 282.81755607638877,
+   "end": 287.7192644097221,
+   "label": "TRAVEL TIME",
+   "value": "≈ 20 years",
+   "slot": 0
+  },
+  {
+   "start": 308.8855317708332,
+   "end": 315.3317609374999,
+   "label": "DUST HITS PER SAIL",
+   "value": "≈ 1,000,000,000",
+   "slot": 0
+  },
+  {
+   "start": 314.43176093749986,
+   "end": 323.0500942708332,
+   "label": "ONE 1 mm GRAIN AT 0.2 c",
+   "value": "Dozens of kg of TNT",
+   "slot": 1
+  },
+  {
+   "start": 337.828715798611,
+   "end": 347.1988824652776,
+   "label": "COSMIC RAYS",
+   "value": "Fast charged particles",
+   "slot": 0
+  },
+  {
+   "start": 357.0252366319443,
+   "end": 368.26392413194435,
+   "label": "SHIELD AT HIGH SPEED",
+   "value": "Several metres thick",
+   "slot": 0
+  },
+  {
+   "start": 370.39110815972214,
+   "end": 379.4571081597221,
+   "label": "THOUGHT EXPERIMENT",
+   "value": "Crewed ship · 1 g flip-and-burn",
+   "slot": 0
+  },
+  {
+   "start": 386.25156649305546,
+   "end": 392.8275664930555,
+   "label": "SHIP CLOCK vs EARTH",
+   "value": "≈ 3.6 years vs ≈ 6 years",
+   "slot": 0
+  },
+  {
+   "start": 391.92756649305545,
+   "end": 398.0768998263888,
+   "label": "PEAK SPEED",
+   "value": "≈ 0.95 c",
+   "slot": 1
+  },
+  {
+   "start": 413.32258385416657,
+   "end": 422.2618338541666,
+   "label": "FLYBY SPEED",
+   "value": "≈ 35 AU per day",
+   "slot": 0
+  },
+  {
+   "start": 428.8725005208332,
+   "end": 436.17383385416656,
+   "label": "DATA LINK",
+   "value": "1 watt laser · 4+ years home",
+   "slot": 0
+  },
+  {
+   "start": 467.25035121527776,
+   "end": 471.8146637152778,
+   "label": "NEAREST SHORE",
+   "value": "4.37 light years",
+   "slot": 0
+  }
+ ],
+ "captions": [
+  {
+   "start": 1.6445144097222189,
+   "end": 3.499014409722219,
+   "text": "Look up at the night sky."
+  },
+  {
+   "start": 3.799014409722219,
+   "end": 7.102347743055552,
+   "text": "Near the southern horizon, a bright star shines."
+  },
+  {
+   "start": 7.402347743055553,
+   "end": 10.367681076388886,
+   "text": "It looks calm. It looks close. It is not."
+  },
+  {
+   "start": 10.667681076388885,
+   "end": 15.766347743055551,
+   "text": "That point of light is Alpha Centauri, the nearest star system to our Sun."
+  },
+  {
+   "start": 16.06634774305555,
+   "end": 20.952502572601006,
+   "text": "And the journey to reach it may be the most terrifying voyage humanity has"
+  },
+  {
+   "start": 20.952502572601006,
+   "end": 21.87691024305555,
+   "text": "ever imagined."
+  },
+  {
+   "start": 22.176910243055552,
+   "end": 24.926056076388885,
+   "text": "In the next eight minutes, we will fly there."
+  },
+  {
+   "start": 25.226056076388886,
+   "end": 30.519096354166663,
+   "text": "We will cross 40 trillion kilometres of darkness, and meet the dangers waiting"
+  },
+  {
+   "start": 30.519096354166663,
+   "end": 31.333410243055553,
+   "text": "in the void."
+  },
+  {
+   "start": 31.633410243055554,
+   "end": 36.38284774305556,
+   "text": "Stay until the end, because the last part changes how you see the stars."
+  },
+  {
+   "start": 39.710031770833325,
+   "end": 44.209073437499995,
+   "text": "Let's start with the farthest explorer we have ever sent toward the stars."
+  },
+  {
+   "start": 44.50907343749999,
+   "end": 52.611760937499994,
+   "text": "Voyager 1 launched in 1977, and entered interstellar space in 2012."
+  },
+  {
+   "start": 52.91176093749999,
+   "end": 58.42348580163043,
+   "text": "It travels at about seventeen kilometres every second, many times faster than"
+  },
+  {
+   "start": 58.42348580163043,
+   "end": 59.49719843749999,
+   "text": "a rifle bullet."
+  },
+  {
+   "start": 59.79719843749999,
+   "end": 64.62809448341837,
+   "text": "Yet if it were aimed at Alpha Centauri, it would need around seventy-five"
+  },
+  {
+   "start": 64.62809448341837,
+   "end": 66.28251093749999,
+   "text": "thousand years to arrive."
+  },
+  {
+   "start": 66.58251093749999,
+   "end": 72.63184427083333,
+   "text": "Seventy-five thousand years ago, no city, no farm, and no written word existed"
+  },
+  {
+   "start": 72.63184427083333,
+   "end": 74.02784427083333,
+   "text": "anywhere on Earth."
+  },
+  {
+   "start": 74.32784427083332,
+   "end": 79.58877356376262,
+   "text": "Even the Parker Solar Probe, the fastest machine ever built, would take nearly"
+  },
+  {
+   "start": 79.58877356376262,
+   "end": 81.00517760416666,
+   "text": "seven thousand years."
+  },
+  {
+   "start": 84.33236163194442,
+   "end": 86.27369496527776,
+   "text": "So how far is it, really?"
+  },
+  {
+   "start": 86.57369496527775,
+   "end": 91.28513246527775,
+   "text": "Alpha Centauri lies about 4.37 light years away."
+  },
+  {
+   "start": 91.58513246527775,
+   "end": 96.89713246527775,
+   "text": "Light, the fastest thing in the universe, needs more than four years to make this trip."
+  },
+  {
+   "start": 97.19713246527775,
+   "end": 100.54011163194441,
+   "text": "In kilometres, that is roughly forty trillion."
+  },
+  {
+   "start": 100.84011163194441,
+   "end": 105.82601639384917,
+   "text": "Or, in units our Solar System understands, about two hundred and seventy"
+  },
+  {
+   "start": 105.82601639384917,
+   "end": 109.56544496527775,
+   "text": "thousand times the distance from the Earth to the Sun."
+  },
+  {
+   "start": 109.86544496527775,
+   "end": 114.72288086271364,
+   "text": "Shrink the Sun to a single grain of sand, and the next star would still be"
+  },
+  {
+   "start": 114.72288086271364,
+   "end": 116.69211163194441,
+   "text": "nearly thirty kilometres away."
+  },
+  {
+   "start": 120.01929565972218,
+   "end": 122.96031649305552,
+   "text": "And what waits there? Not one star, but three."
+  },
+  {
+   "start": 123.26031649305551,
+   "end": 129.0506574021464,
+   "text": "Alpha Centauri A and B are sun-like stars that circle each other once every"
+  },
+  {
+   "start": 129.0506574021464,
+   "end": 133.4513164930555,
+   "text": "eighty years, roughly as far apart as the Sun and Uranus."
+  },
+  {
+   "start": 133.7513164930555,
+   "end": 139.23198939025175,
+   "text": "Far beyond them, about a fifth of a light year away, a small red dwarf called"
+  },
+  {
+   "start": 139.23198939025175,
+   "end": 141.36731649305548,
+   "text": "Proxima Centauri drifts along."
+  },
+  {
+   "start": 141.6673164930555,
+   "end": 146.90729565972217,
+   "text": "At 4.24 light years, Proxima is the closest star to us of all."
+  },
+  {
+   "start": 147.20729565972215,
+   "end": 151.42167065972214,
+   "text": "Yet it is so dim that you can never see it without a telescope."
+  },
+  {
+   "start": 154.74885468749991,
+   "end": 159.86193802083324,
+   "text": "Around that little star circles a world astronomers cannot stop thinking about."
+  },
+  {
+   "start": 160.16193802083325,
+   "end": 165.91365418513584,
+   "text": "Proxima b, discovered in 2016, is a rocky planet with roughly the mass of"
+  },
+  {
+   "start": 165.91365418513584,
+   "end": 171.2714171874999,
+   "text": "Earth, sitting in the habitable zone where liquid water could exist."
+  },
+  {
+   "start": 171.57141718749992,
+   "end": 176.68658699882067,
+   "text": "But look closer. It orbits its star every eleven days, about eight times"
+  },
+  {
+   "start": 176.68658699882067,
+   "end": 179.10208385416658,
+   "text": "closer than Mercury is to our Sun."
+  },
+  {
+   "start": 179.4020838541666,
+   "end": 185.99358773013557,
+   "text": "And its star is violent. In March 2017, a single flare made Proxima a thousand"
+  },
+  {
+   "start": 185.99358773013557,
+   "end": 190.30341718749992,
+   "text": "times brighter in radio light, in just ten seconds."
+  },
+  {
+   "start": 190.60341718749993,
+   "end": 195.3550838541666,
+   "text": "Flares like that could strip away an atmosphere, and sterilise a surface."
+  },
+  {
+   "start": 195.6550838541666,
+   "end": 201.90200001270318,
+   "text": "And around Alpha Centauri A, the James Webb telescope spotted a faint dot in"
+  },
+  {
+   "start": 201.90200001270318,
+   "end": 208.06671990599585,
+   "text": "2024: a possible giant planet, about twice as far from its star as Earth is"
+  },
+  {
+   "start": 208.06671990599585,
+   "end": 209.13527135416658,
+   "text": "from the Sun."
+  },
+  {
+   "start": 209.43527135416662,
+   "end": 215.25477135416662,
+   "text": "It was seen only once. For now, it remains a candidate, not a confirmed world."
+  },
+  {
+   "start": 218.58195538194434,
+   "end": 222.11391371527768,
+   "text": "So the destination is real. The problem is speed."
+  },
+  {
+   "start": 222.4139137152777,
+   "end": 227.04701175449338,
+   "text": "To arrive within a human lifetime, we would need to travel at a serious"
+  },
+  {
+   "start": 227.04701175449338,
+   "end": 229.0699137152777,
+   "text": "fraction of the speed of light."
+  },
+  {
+   "start": 229.36991371527768,
+   "end": 234.29974228670625,
+   "text": "At ten percent of light speed, the trip takes about forty-four years. At"
+  },
+  {
+   "start": 234.29974228670625,
+   "end": 236.559247048611,
+   "text": "twenty percent, about twenty-two."
+  },
+  {
+   "start": 236.859247048611,
+   "end": 241.54201788194433,
+   "text": "But rockets that carry their own fuel cannot come close to those speeds."
+  },
+  {
+   "start": 241.84201788194434,
+   "end": 247.4313512152777,
+   "text": "So engineers asked a radical question: what if the ship carried no fuel at all?"
+  },
+  {
+   "start": 250.7585352430554,
+   "end": 256.3186746400744,
+   "text": "In 2016, Yuri Milner announced, alongside Stephen Hawking, Breakthrough"
+  },
+  {
+   "start": 256.3186746400744,
+   "end": 260.3908894097221,
+   "text": "Starshot, a hundred million dollar research program."
+  },
+  {
+   "start": 260.6908894097221,
+   "end": 266.40822274305543,
+   "text": "The idea: build the most powerful laser array ever made, around a hundred gigawatts."
+  },
+  {
+   "start": 266.70822274305544,
+   "end": 271.76128696323894,
+   "text": "Then use it to push a fleet of tiny probes, each a chip weighing about a gram,"
+  },
+  {
+   "start": 271.76128696323894,
+   "end": 273.76955607638877,
+   "text": "attached to a mirror-like sail."
+  },
+  {
+   "start": 274.0695560763888,
+   "end": 278.8177020617902,
+   "text": "In just minutes, the laser would blast them up to twenty percent of the speed"
+  },
+  {
+   "start": 278.8177020617902,
+   "end": 282.51755607638876,
+   "text": "of light, more than two hundred million kilometres per hour."
+  },
+  {
+   "start": 282.81755607638877,
+   "end": 286.5192644097221,
+   "text": "They would reach Alpha Centauri in about twenty years."
+  },
+  {
+   "start": 286.8192644097221,
+   "end": 290.9771810763888,
+   "text": "And their pictures would need another four years to travel home."
+  },
+  {
+   "start": 294.30436510416655,
+   "end": 297.4608859374999,
+   "text": "But the space between the stars is not empty."
+  },
+  {
+   "start": 297.7608859374999,
+   "end": 301.5441984374999,
+   "text": "It is filled with thin gas, and tiny grains of dust."
+  },
+  {
+   "start": 301.84419843749987,
+   "end": 307.01936342066483,
+   "text": "At normal speeds, they are harmless. At twenty percent of light speed, every"
+  },
+  {
+   "start": 307.01936342066483,
+   "end": 308.5855317708332,
+   "text": "grain becomes a bullet."
+  },
+  {
+   "start": 308.8855317708332,
+   "end": 314.1317609374999,
+   "text": "A single sail could be struck by around a billion dust particles on the way."
+  },
+  {
+   "start": 314.43176093749986,
+   "end": 320.5084807956559,
+   "text": "And a grain just one millimetre across would hit with the energy of dozens of"
+  },
+  {
+   "start": 320.5084807956559,
+   "end": 321.8500942708332,
+   "text": "kilograms of TNT."
+  },
+  {
+   "start": 322.15009427083316,
+   "end": 327.53288214962106,
+   "text": "A big ship could be destroyed in an instant. For the tiny sails, the plan is a"
+  },
+  {
+   "start": 327.53288214962106,
+   "end": 331.2594276041665,
+   "text": "numbers game: launch thousands, and hope some survive."
+  },
+  {
+   "start": 334.5866116319443,
+   "end": 337.52871579861096,
+   "text": "There is a second killer, and you cannot see it."
+  },
+  {
+   "start": 337.828715798611,
+   "end": 343.5699139968092,
+   "text": "Space is threaded with cosmic rays, fast charged particles that raise the risk"
+  },
+  {
+   "start": 343.5699139968092,
+   "end": 345.99888246527763,
+   "text": "of cancer even on short missions."
+  },
+  {
+   "start": 346.29888246527764,
+   "end": 351.8356360572317,
+   "text": "At relativistic speed, it gets worse: even a single hydrogen atom slams in so"
+  },
+  {
+   "start": 351.8356360572317,
+   "end": 356.7252366319443,
+   "text": "hard that, from the ship's point of view, it acts like a cosmic ray."
+  },
+  {
+   "start": 357.0252366319443,
+   "end": 362.21766120090984,
+   "text": "Analyses of fast starships find that a crew at very high speed would need a"
+  },
+  {
+   "start": 362.21766120090984,
+   "end": 367.0639241319443,
+   "text": "shield several metres thick, just to survive the gas it flies through."
+  },
+  {
+   "start": 370.39110815972214,
+   "end": 375.9478237560524,
+   "text": "Now imagine the impossible: a crewed ship that accelerates at one g, the same"
+  },
+  {
+   "start": 375.9478237560524,
+   "end": 378.2571081597221,
+   "text": "pull you feel standing on Earth."
+  },
+  {
+   "start": 378.55710815972213,
+   "end": 381.3848998263888,
+   "text": "Halfway there, it flips around, and brakes."
+  },
+  {
+   "start": 381.6848998263888,
+   "end": 385.95156649305545,
+   "text": "No engine we know could do this. But the physics is clear."
+  },
+  {
+   "start": 386.25156649305546,
+   "end": 391.62756649305544,
+   "text": "The crew would age about three and a half years, while about six years pass on Earth."
+  },
+  {
+   "start": 391.92756649305545,
+   "end": 396.8768998263888,
+   "text": "At the midpoint, they would be moving at ninety-five percent of the speed of light."
+  },
+  {
+   "start": 397.17689982638876,
+   "end": 402.64781508062606,
+   "text": "Outside the window, the stars crowd into a blazing blue ring ahead, while the"
+  },
+  {
+   "start": 402.64781508062606,
+   "end": 405.5608998263888,
+   "text": "sky behind fades to a dull, red darkness."
+  },
+  {
+   "start": 408.88808385416655,
+   "end": 413.02258385416656,
+   "text": "If a Starshot probe survives, it gets exactly one chance."
+  },
+  {
+   "start": 413.32258385416657,
+   "end": 418.3669164434523,
+   "text": "It cannot slow down. It will tear through the system at about thirty-five"
+  },
+  {
+   "start": 418.3669164434523,
+   "end": 421.0618338541666,
+   "text": "times the Earth–Sun distance every day."
+  },
+  {
+   "start": 421.36183385416655,
+   "end": 426.3956954893867,
+   "text": "In those few precious hours, its tiny camera would take the first close-up"
+  },
+  {
+   "start": 426.3956954893867,
+   "end": 428.5725005208332,
+   "text": "pictures of another star system."
+  },
+  {
+   "start": 428.8725005208332,
+   "end": 433.76697671130944,
+   "text": "Then a one-watt laser would send them home, a whisper crossing four light"
+  },
+  {
+   "start": 433.76697671130944,
+   "end": 434.97383385416657,
+   "text": "years of darkness."
+  },
+  {
+   "start": 435.2738338541666,
+   "end": 439.0498338541666,
+   "text": "And after that, the probe vanishes into the dark, forever."
+  },
+  {
+   "start": 442.3770178819444,
+   "end": 445.66235121527774,
+   "text": "So, is the journey to Alpha Centauri possible?"
+  },
+  {
+   "start": 445.96235121527775,
+   "end": 450.9733095486111,
+   "text": "Not yet. Dust, radiation, and the sheer distance still stand in the way."
+  },
+  {
+   "start": 451.2733095486111,
+   "end": 455.93746049200735,
+   "text": "But the first steps are happening right now: the lasers, the sails, and the"
+  },
+  {
+   "start": 455.93746049200735,
+   "end": 457.8653095486111,
+   "text": "telescopes hunting for planets."
+  },
+  {
+   "start": 458.1653095486111,
+   "end": 462.22191371527776,
+   "text": "We are a species that once crossed oceans in wooden boats."
+  },
+  {
+   "start": 462.5219137152778,
+   "end": 466.95035121527775,
+   "text": "The ocean between the stars is wider, and darker, and colder."
+  },
+  {
+   "start": 467.25035121527776,
+   "end": 470.61466371527774,
+   "text": "But the nearest shore is only four light years away."
+  },
+  {
+   "start": 470.91466371527775,
+   "end": 475.807951850871,
+   "text": "If you enjoyed this journey, subscribe to Technical Talk India, and tell us in"
+  },
+  {
+   "start": 475.807951850871,
+   "end": 478.31733038194443,
+   "text": "the comments: would you board that ship?"
+  }
+ ]
+}

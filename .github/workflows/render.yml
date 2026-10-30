@@ -1,0 +1,126 @@
+name: Render Alpha Centauri video
+
+# Run it from the Actions tab -> "Render Alpha Centauri video" -> "Run workflow".
+# Pick the quality, then download the finished MP4 from the run's Artifacts.
+on:
+  workflow_dispatch:
+    inputs:
+      quality:
+        description: "What to render"
+        type: choice
+        default: "1080p"
+        options:
+          - "1080p"
+          - "4k"
+          - "shorts"
+          - "all (1080p + 4k + shorts)"
+      fps:
+        description: "Frames per second (24 / 30 / 60)"
+        default: "30"
+      chunks:
+        description: "Parallel jobs per long video (more = faster; 1080p: 20, 4k: 40)"
+        default: "24"
+      burn_captions:
+        description: "Burn captions into the long video (the .srt is always provided too)"
+        type: boolean
+        default: false
+      crf:
+        description: "x264 quality (lower = better/larger). 16-20 recommended"
+        default: "18"
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+      formats: ${{ steps.m.outputs.formats }}
+    steps:
+      - id: m
+        env:
+          Q: ${{ inputs.quality }}
+          CHUNKS: ${{ inputs.chunks }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          q = os.environ["Q"]; n = max(1, int(os.environ["CHUNKS"]))
+          fm = {"1080p": ["1080p"], "4k": ["4k"], "shorts": ["shorts"]}.get(q, ["1080p", "4k", "shorts"])
+          inc = []
+          for f in fm:
+              k = 6 if f == "shorts" else n
+              for i in range(k):
+                  inc.append({"format": f, "chunk": i, "chunks": k})
+          out = os.environ["GITHUB_OUTPUT"]
+          with open(out, "a") as fh:
+              fh.write("matrix=" + json.dumps({"include": inc}) + "\n")
+              fh.write("formats=" + json.dumps(fm) + "\n")
+          print(inc[:3], len(inc), "jobs")
+          PY
+
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+      - name: Render chunk ${{ matrix.chunk }}/${{ matrix.chunks }} (${{ matrix.format }})
+        run: |
+          CAP=""
+          if [ "${{ inputs.burn_captions }}" = "true" ]; then CAP="--captions"; fi
+          node tools/render.mjs --format "${{ matrix.format }}" \
+            --fps "${{ inputs.fps }}" --crf "${{ inputs.crf }}" \
+            --chunk ${{ matrix.chunk }} --chunks ${{ matrix.chunks }} $CAP \
+            --out "build/parts/${{ matrix.format }}_$(printf '%03d' ${{ matrix.chunk }}).mp4"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.format }}-${{ matrix.chunk }}
+          path: build/parts/*.mp4
+          retention-days: 2
+          compression-level: 0
+
+  assemble:
+    needs: [plan, render]
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        format: ${{ fromJSON(needs.plan.outputs.formats) }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -y && sudo apt-get install -y ffmpeg
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: part-${{ matrix.format }}-*
+          path: build/parts
+          merge-multiple: true
+      - name: Join chunks and add audio
+        run: |
+          mkdir -p out
+          NAME="Terrifying_Journey_to_Alpha_Centauri"
+          case "${{ matrix.format }}" in
+            1080p)  FILE="out/${NAME}_1080p.mp4" ;;
+            4k)     FILE="out/${NAME}_4K.mp4" ;;
+            shorts) FILE="out/${NAME}_Shorts.mp4" ;;
+          esac
+          tools/assemble.sh "${{ matrix.format }}" build/parts "$FILE"
+          # audio + subtitles next to the video
+          if [ "${{ matrix.format }}" = "shorts" ]; then SRC=build/shorts; else SRC=build/main; fi
+          cp "$SRC/subtitles.srt" "out/${NAME}_${{ matrix.format }}.srt"
+          cp "$SRC/audio.mp3" "out/${NAME}_${{ matrix.format }}_audio.mp3"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FINAL-${{ matrix.format }}
+          path: out/*
+          retention-days: 14
+          compression-level: 0
